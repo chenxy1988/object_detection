@@ -1,0 +1,6 @@
+classes= 1
+train  = /local/sample/myData/myData_train.txt
+valid  = /local/sample/myData/myvalid.txt
+names = /local/sample/myData/myData.names
+backup = /local/sample/myData/weights
+

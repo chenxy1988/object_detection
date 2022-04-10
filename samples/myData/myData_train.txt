@@ -1,0 +1,10 @@
+/local/sample/myData/JPEGImages/9.jpg
+/local/sample/myData/JPEGImages/2.jpg
+/local/sample/myData/JPEGImages/11.jpg
+/local/sample/myData/JPEGImages/7.jpg
+/local/sample/myData/JPEGImages/10.jpg
+/local/sample/myData/JPEGImages/4.jpg
+/local/sample/myData/JPEGImages/3.jpg
+/local/sample/myData/JPEGImages/6.jpg
+/local/sample/myData/JPEGImages/8.jpg
+/local/sample/myData/JPEGImages/5.jpg
