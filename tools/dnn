@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "Staring dnn utils"
+
+if [ $2 = "detector"];then
+  APP="/usr/cafe_ssd"
+else
+  APP="/usr/cafe_ssd_test"
+fi
+
+$APP $1 $3 $4 &
